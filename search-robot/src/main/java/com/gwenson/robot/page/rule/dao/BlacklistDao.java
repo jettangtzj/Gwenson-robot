@@ -33,11 +33,11 @@ public class BlacklistDao {
 	
 	static{
 		
-		String blacklistPath = PropertiesUtil.GetValueByKey("/application.properties", "gwensong.robot.search.blacklistPath",BlacklistDao.class);
+		String blacklistPath = PropertiesUtil.GetValueByKey("application.properties", "gwensong.robot.search.blacklistPath");
 		log.info(blacklistPath);
 		
 		if(null != blacklistPath && !"".equals(blacklistPath)){
-			
+			System.out.println("========"+blacklistPath);
 			File file = WhiteAndBlackListUtil.getFile(blacklistPath);
 			BLACKLIST = WhiteAndBlackListUtil.getListFile(file);
 			oldSize=file.length();

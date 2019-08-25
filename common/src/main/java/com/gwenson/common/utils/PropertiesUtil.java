@@ -26,11 +26,11 @@ public class PropertiesUtil {
 	 * @param key
 	 * @return
 	 */
-    public static String GetValueByKey(String filePath, String key,Class<?> c ) {
+    public static String GetValueByKey(String filePath, String key) {
         Properties pps = new Properties();
         try {
 //            InputStream in = new BufferedInputStream (new FileInputStream(filePath));  
-        	InputStream in = c.getClass().getResourceAsStream(filePath);
+        	InputStream in = Thread.currentThread().getContextClassLoader().getResourceAsStream(filePath);
             pps.load(in);
             String value = pps.getProperty(key);
             log.info(key + " = " + value);

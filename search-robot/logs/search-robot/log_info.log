@@ -1,0 +1,165 @@
+===2019-08-25 18:44:03.497 INFO  com.gwenson.SearchRobotApplicationTests Line:48  - Starting SearchRobotApplicationTests on jetdeMacBook-Pro.local with PID 4595 (started by jettang in /Users/jettang/Desktop/workspace/Gwenson-robot/search-robot)
+===2019-08-25 18:44:03.499 INFO  com.gwenson.SearchRobotApplicationTests Line:641 - The following profiles are active: dev
+===2019-08-25 18:44:09.432 INFO  com.gwenson.common.utils.PropertiesUtil Line:36  - gwensong.robot.search.blacklistPath = blacklist.txt
+===2019-08-25 18:44:09.432 INFO  com.gwenson.robot.page.rule.dao.BlacklistDao Line:37  - blacklist.txt
+===2019-08-25 19:05:37.621 INFO  com.gwenson.SearchRobotApplicationTests Line:48  - Starting SearchRobotApplicationTests on jetdeMacBook-Pro.local with PID 4607 (started by jettang in /Users/jettang/Desktop/workspace/Gwenson-robot/search-robot)
+===2019-08-25 19:05:37.625 INFO  com.gwenson.SearchRobotApplicationTests Line:641 - The following profiles are active: dev
+===2019-08-25 19:05:43.480 INFO  com.gwenson.common.utils.PropertiesUtil Line:36  - gwensong.robot.search.blacklistPath = blacklist.txt
+===2019-08-25 19:05:43.480 INFO  com.gwenson.robot.page.rule.dao.BlacklistDao Line:37  - blacklist.txt
+===2019-08-25 19:05:43.482 INFO  com.gwenson.robot.page.rule.dao.BlacklistDao Line:44  - size:1---fileLength:14
+===2019-08-25 19:05:43.484 INFO  com.gwenson.common.utils.PropertiesUtil Line:36  - gwensong.robot.search.whitelistPath = whitelist.txt
+===2019-08-25 19:05:43.484 INFO  com.gwenson.robot.page.rule.dao.WhitelistDao Line:36  - whitelist.txt
+===2019-08-25 19:05:43.485 INFO  com.gwenson.robot.page.rule.dao.WhitelistDao Line:43  - size:4---fileLength:120
+===2019-08-25 19:05:49.710 INFO  com.gwenson.robot.utils.ConnectUtil Line:105 - connectUrl：https://www.oschina.net/blog不使用的代理ip与端口。
+===2019-08-25 19:05:49.717 INFO  org.apdplat.word.segmentation.SegmentationFactory Line:43  - 构造分词实现类：org.apdplat.word.segmentation.impl.BidirectionalMinimumMatching
+===2019-08-25 19:05:49.719 INFO  org.apdplat.word.util.WordConfTools Line:88  - 开始加载配置文件
+===2019-08-25 19:05:49.720 INFO  org.apdplat.word.util.WordConfTools Line:128 - 加载配置文件：word.conf
+===2019-08-25 19:05:49.720 INFO  org.apdplat.word.util.WordConfTools Line:125 - 未找到配置文件：word.local.conf
+===2019-08-25 19:05:49.721 INFO  org.apdplat.word.util.WordConfTools Line:94  - 配置文件加载完毕，耗时1 毫秒，配置项数目：33
+===2019-08-25 19:05:49.721 INFO  org.apdplat.word.util.WordConfTools Line:95  - 配置信息：
+===2019-08-25 19:05:49.724 INFO  org.apdplat.word.util.WordConfTools Line:98  - 1、auto.detect=true
+===2019-08-25 19:05:49.724 INFO  org.apdplat.word.util.WordConfTools Line:98  - 2、bigram.double.array.trie.size=5300000
+===2019-08-25 19:05:49.724 INFO  org.apdplat.word.util.WordConfTools Line:98  - 3、bigram.path=classpath:bigram.txt
+===2019-08-25 19:05:49.724 INFO  org.apdplat.word.util.WordConfTools Line:98  - 4、dic.class=org.apdplat.word.dictionary.impl.DoubleArrayDictionaryTrie
+===2019-08-25 19:05:49.724 INFO  org.apdplat.word.util.WordConfTools Line:98  - 5、dic.dump.path=
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 6、dic.path=classpath:dic.txt
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 7、dictionary.trie.index.size=24000
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 8、double.array.dictionary.trie.size=2600000
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 9、intercept.length=16
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 10、keep.punctuation=false
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 11、keep.whitespace=false
+===2019-08-25 19:05:49.725 INFO  org.apdplat.word.util.WordConfTools Line:98  - 12、ngram=bigram
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 13、parallel.seg=true
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 14、part.of.speech.des.path=classpath:part_of_speech_des.txt
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 15、part.of.speech.dic.path=classpath:part_of_speech_dic.txt
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 16、person.name.recognize=true
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 17、punctuation.path=classpath:punctuation.txt
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 18、quantifier.path=classpath:quantifier.txt
+===2019-08-25 19:05:49.726 INFO  org.apdplat.word.util.WordConfTools Line:98  - 19、recognition.tool.enabled=true
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 20、redis.host=localhost
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 21、redis.port=6379
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 22、stopwords.path=classpath:stopwords.txt
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 23、surname.path=classpath:surname.txt
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 24、tagging.antonym=false
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 25、tagging.pinyin.acronym=false
+===2019-08-25 19:05:49.727 INFO  org.apdplat.word.util.WordConfTools Line:98  - 26、tagging.pinyin.full=false
+===2019-08-25 19:05:49.728 INFO  org.apdplat.word.util.WordConfTools Line:98  - 27、tagging.synonym=false
+===2019-08-25 19:05:49.728 INFO  org.apdplat.word.util.WordConfTools Line:98  - 28、trigram.double.array.trie.size=9800000
+===2019-08-25 19:05:49.728 INFO  org.apdplat.word.util.WordConfTools Line:98  - 29、trigram.path=classpath:trigram.txt
+===2019-08-25 19:05:49.728 INFO  org.apdplat.word.util.WordConfTools Line:98  - 30、word.antonym.path=classpath:word_antonym.txt
+===2019-08-25 19:05:49.728 INFO  org.apdplat.word.util.WordConfTools Line:98  - 31、word.refine.combine.max.length=3
+===2019-08-25 19:05:49.729 INFO  org.apdplat.word.util.WordConfTools Line:98  - 32、word.refine.path=classpath:word_refine.txt
+===2019-08-25 19:05:49.729 INFO  org.apdplat.word.util.WordConfTools Line:98  - 33、word.synonym.path=classpath:word_synonym.txt
+===2019-08-25 19:05:49.730 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:72  - dic.class=org.apdplat.word.dictionary.impl.DoubleArrayDictionaryTrie
+===2019-08-25 19:05:49.731 INFO  org.apdplat.word.dictionary.impl.DoubleArrayDictionaryTrie Line:69  - 初始化词典：org.apdplat.word.dictionary.impl.DoubleArrayDictionaryTrie
+===2019-08-25 19:05:49.733 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:49.733 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:dic.txt,classpath:punctuation.txt,classpath:part_of_speech_dic.txt,classpath:word_synonym.txt,classpath:word_antonym.txt
+===2019-08-25 19:05:49.733 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：dic.txt
+===2019-08-25 19:05:49.734 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/dic.txt
+===2019-08-25 19:05:49.734 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:dic.txt
+===2019-08-25 19:05:49.823 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：punctuation.txt
+===2019-08-25 19:05:49.824 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/punctuation.txt
+===2019-08-25 19:05:49.824 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:punctuation.txt
+===2019-08-25 19:05:49.825 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：part_of_speech_dic.txt
+===2019-08-25 19:05:49.825 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/part_of_speech_dic.txt
+===2019-08-25 19:05:49.826 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:part_of_speech_dic.txt
+===2019-08-25 19:05:50.195 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：word_synonym.txt
+===2019-08-25 19:05:50.196 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/word_synonym.txt
+===2019-08-25 19:05:50.196 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:word_synonym.txt
+===2019-08-25 19:05:50.201 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：word_antonym.txt
+===2019-08-25 19:05:50.201 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/word_antonym.txt
+===2019-08-25 19:05:50.201 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:word_antonym.txt
+===2019-08-25 19:05:50.204 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 1091310 行
+===2019-08-25 19:05:50.204 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:92  - 初始化词典
+===2019-08-25 19:05:50.206 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:50.206 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:surname.txt
+===2019-08-25 19:05:50.206 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：surname.txt
+===2019-08-25 19:05:50.207 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/surname.txt
+===2019-08-25 19:05:50.207 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:surname.txt
+===2019-08-25 19:05:50.207 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 508 行
+===2019-08-25 19:05:50.207 INFO  org.apdplat.word.recognition.PersonName Line:61  - 初始化百家姓
+===2019-08-25 19:05:50.208 INFO  org.apdplat.word.recognition.PersonName Line:74  - 百家姓初始化完毕，单姓个数：446，复姓个数：60
+===2019-08-25 19:05:50.208 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时2 毫秒
+===2019-08-25 19:05:50.209 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:101 - 将 60 个复姓加入词典
+===2019-08-25 19:05:58.298 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:139 - 词数目：677844，词典最大词长：16
+===2019-08-25 19:05:58.298 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  1 的词数为：47
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  2 的词数为：213334
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  3 的词数为：289749
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  4 的词数为：158964
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  5 的词数为：6139
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  6 的词数为：3746
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  7 的词数为：2205
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  8 的词数为：1321
+===2019-08-25 19:05:58.299 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:142 - 词长  9 的词数为：797
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 10 的词数为：632
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 11 的词数为：312
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 12 的词数为：282
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 13 的词数为：124
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 14 的词数为：116
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 15 的词数为：51
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:144 - 词长 16 的词数为：25
+===2019-08-25 19:05:58.300 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:147 - 词典平均词长：3.0032012
+===2019-08-25 19:05:58.484 INFO  org.apdplat.word.dictionary.DictionaryFactory Line:122 - 词典初始化完毕，耗时：8279 毫秒
+===2019-08-25 19:05:58.484 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时8751 毫秒
+===2019-08-25 19:05:58.484 INFO  org.apdplat.word.segmentation.SegmentationFactory Line:43  - 构造分词实现类：org.apdplat.word.segmentation.impl.MinimumMatching
+===2019-08-25 19:05:58.485 INFO  org.apdplat.word.segmentation.SegmentationFactory Line:43  - 构造分词实现类：org.apdplat.word.segmentation.impl.ReverseMinimumMatching
+===2019-08-25 19:05:58.486 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:58.486 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:punctuation.txt
+===2019-08-25 19:05:58.487 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：punctuation.txt
+===2019-08-25 19:05:58.487 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/punctuation.txt
+===2019-08-25 19:05:58.487 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:punctuation.txt
+===2019-08-25 19:05:58.487 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 48 行
+===2019-08-25 19:05:58.487 INFO  org.apdplat.word.recognition.Punctuation Line:55  - 初始化标点符号
+===2019-08-25 19:05:58.488 INFO  org.apdplat.word.recognition.Punctuation Line:80  - 标点符号初始化完毕，标点符号个数：52
+===2019-08-25 19:05:58.488 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时2 毫秒
+===2019-08-25 19:05:58.494 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:58.495 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:quantifier.txt
+===2019-08-25 19:05:58.495 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：quantifier.txt
+===2019-08-25 19:05:58.495 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/quantifier.txt
+===2019-08-25 19:05:58.495 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:quantifier.txt
+===2019-08-25 19:05:58.496 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 164 行
+===2019-08-25 19:05:58.496 INFO  org.apdplat.word.recognition.Quantifier Line:52  - 初始化数量词
+===2019-08-25 19:05:58.496 INFO  org.apdplat.word.recognition.Quantifier Line:65  - 数量词初始化完毕，数量词个数：164
+===2019-08-25 19:05:58.496 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时1 毫秒
+===2019-08-25 19:05:58.498 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:part_of_speech_des.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：part_of_speech_des.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:bigram.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/part_of_speech_des.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：bigram.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:part_of_speech_des.txt
+===2019-08-25 19:05:58.499 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/bigram.txt
+===2019-08-25 19:05:58.500 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:bigram.txt
+===2019-08-25 19:05:58.500 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 38 行
+===2019-08-25 19:05:58.500 INFO  org.apdplat.word.segmentation.PartOfSpeech Line:61  - 初始化自定义词性说明
+===2019-08-25 19:05:58.500 INFO  org.apdplat.word.segmentation.PartOfSpeech Line:72  - 自定义词性说明初始化完毕，数据条数：38
+===2019-08-25 19:05:58.500 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时1 毫秒
+===2019-08-25 19:05:58.715 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 1519443 行
+===2019-08-25 19:05:58.716 INFO  org.apdplat.word.corpus.Bigram Line:52  - 初始化bigram
+===2019-08-25 19:06:18.079 INFO  org.apdplat.word.corpus.Bigram Line:63  - bigram初始化完毕，bigram数据条数：1519443
+===2019-08-25 19:06:18.080 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时19581 毫秒
+===2019-08-25 19:06:18.129 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:06:18.129 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:part_of_speech_dic.txt
+===2019-08-25 19:06:18.129 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：part_of_speech_dic.txt
+===2019-08-25 19:06:18.130 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/part_of_speech_dic.txt
+===2019-08-25 19:06:18.130 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:part_of_speech_dic.txt
+===2019-08-25 19:06:18.204 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 427445 行
+===2019-08-25 19:06:18.204 INFO  org.apdplat.word.tagging.PartOfSpeechTagging Line:58  - 初始化词性标注器
+===2019-08-25 19:06:18.322 INFO  org.apdplat.word.tagging.PartOfSpeechTagging Line:69  - 词性标注器初始化完毕，词性数据条数：427445
+===2019-08-25 19:06:18.322 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时193 毫秒
+===2019-08-25 19:06:18.333 INFO  org.apdplat.word.util.AutoDetector Line:78  - 开始加载资源
+===2019-08-25 19:06:18.333 INFO  org.apdplat.word.util.AutoDetector Line:79  - classpath:stopwords.txt
+===2019-08-25 19:06:18.333 INFO  org.apdplat.word.util.AutoDetector Line:116 - 类路径资源：stopwords.txt
+===2019-08-25 19:06:18.334 INFO  org.apdplat.word.util.AutoDetector Line:120 - 类路径资源URL：jar:file:/Users/jettang/.m2/repository/org/apdplat/word/1.3.1/word-1.3.1.jar!/stopwords.txt
+===2019-08-25 19:06:18.334 INFO  org.apdplat.word.util.AutoDetector Line:350 - 加载资源：classpath:stopwords.txt
+===2019-08-25 19:06:18.335 INFO  org.apdplat.word.util.AutoDetector Line:99  - 加载资源 1482 行
+===2019-08-25 19:06:18.335 INFO  org.apdplat.word.recognition.StopWord Line:64  - 初始化停用词
+===2019-08-25 19:06:18.336 INFO  org.apdplat.word.recognition.StopWord Line:70  - 停用词初始化完毕，停用词个数：1482
+===2019-08-25 19:06:18.336 INFO  org.apdplat.word.util.AutoDetector Line:104 - 完成加载资源，耗时3 毫秒
+===2019-08-25 19:06:18.339 INFO  com.gwenson.robot.page.service.impl.DispatchTaskServiceImpl Line:84  - 热部署分词>>>[开源, 软件, 问答, 动弹, 博客, 翻译, 资讯, 码, 云, 众包, 源创, 求职, 招聘, 高手, 问答, 开源, 访谈, 周刊, 开源, 导航页, 登录, 注册, 下载, app, oschina, app, 关注, 领域, 头条, 文章, 聚合, 全网, 文章, 阅读, 喜好, 个性, 推荐, 开源, 软件, 问答, 动弹, 博客, 翻译, 资讯, 码, 云, 代码, 托管, 众包, 更多, 源创, 求职, 招聘, 高手, 问答, 开源, 访谈, 周刊, 开源, 导航页, 登录, 注册, 前沿, 人工, 智能, 数据, 云, 计算, 区块, 链, 开发, 领域, 开发, 前端, 开发, 服务端, 开发, 游戏, 开发, 编程, 语言, 数, 据库, 开发, 图像, 媒体, 系统, 运维, 软件, 工程, 开源, 硬件, 类型, 物, 联网, 更多, 精彩, 博客, 颠覆, 微, 认知, 思考, 微, 七个, 主流, 观点, 梁桂钊/nr, 12, tomcat, springboot, 启动, 木, 木匠, 24, 程序员, 懂, 一点, linux, 马, 蜂窝, 14, 最新, 推荐, 每日, 博, 最新, 发表, rust, gui, 框架, 生态, 概览, 原, 荐, 本文, 主流, rust, gui, 框架, 表现, 差, 处于, 平均, 水平, 参与, 对比, 框架, 共有, 8, 详细, electron, neon, el, 红薯, 06, 33, 217, 0, 2, 聊聊, 图, 数, 据库, 和图数/nr, 据库, 知识, 原, 荐, 图, 数, 据库, 维基, 百科, 计算, 机, 科学, 图, 数, 据库, 英语, graph, database, gdb, 使, 用图, 结构, 语义, 查询, 数, 据库, 节点, 边和, 属性, 存储, 数据, 系统, 关键, 概念, 图, nebulagraph, 前天, 16, 24, 177, 0, 0, zookeeper, 读写, 锁, 原, 荐, 1, 读写, 锁, 概念, 读写, 锁, 计, 算机, 程序, 并发, 控制, 一种, 同步, 机制, 用于, 解决, 读写, 读, 操作, 并发, 重入, 写, 操作, 互斥, 读写, 锁, 多种, 读写, 权限, 优先, 级, 策略, 设计, 读, 优先, 写, 优先, 或不, 指定, 编辑, 之路, 前天, 13, 55, 471, 0, 0, 崛起, springboot2, 0, 整合, rabbitmq, 场景, 开发, 46, 原, 荐, 1, 博客, 涵盖, 1, 1, 入门级, rabbitmq, 五种, 默认, 五种, 开发, 方案, 1, 2, ssm, xml, 方式, 集成, rabbitmq, 五, 模式, 死信, 队列, 方案, jdk8, 1, 3, 博客, 码, 云, 地址, springboot, rabbitmq, 场景, 木, 九天, 前天, 11, 20, 546, 6, 0, spring, 解决, 循环, 依赖, 原, 荐, spring, 面试, 会被, 问到, spring, 解决, 循环, 依赖, 算是, spring, 高频, 面, 试题, 刻意, 研读, 读过, 源码, 面试者, 也不, 爱, 宝贝, 丶, 08, 22, 23, 25, 482, 3, 4, spring, security, 03, 定义, 登录, 成功, 后的/nr, 逻辑, 原, 荐, 上一, 篇, 说到, spring, security, 定义, 登录, 逻辑, 这一, 篇, 来讲, 自定, 义, 登录, 成功, 后的/nr, 逻辑, 先来, 回顾, 默认, 情况下, 登录, 成功, 过后, spring, security, 帮, nimo10050, 08, 22, 22, 41, 195, 0, 0, dns, https, 一代, dns, blockchain, 原, 荐, 本文, 作者, peter, lai, diode, 区块, 链, 工程师, 软件, 开发, 领域, 在做, 工商, 相关, peter, lai, 一位, 活跃, 开源, 贡, 献者, diode, 团队, 开发, 基于, 区块, 红薯, 08, 22, 17, 22, 332, 0, 0, 敏捷, 开发, 故事, 估算, 秘密, 原, 荐, 质量/n, 估算/v, 帮/v, 产品/n, 负/v, 责人/n, 优化/vn, 效率/n, 冲突/vn, 精准, 估算, 性, 毋庸, 置疑, 估算, 并非, 易事, 软件, 开发, 来说, 估算, 堪称, 最难, 估算, 产品, 负责, 人做, 影响, worktile, 08, 22, 17, 15, 325, 0, 0, python, 之父, 对话, 聊起, 知识, 产权, 知识, 共享, 文章, 翻译, 原, 荐, 缘起, 翻译, guido, van, rossum, python, 之父, 文章, 留言, 申请, 非, 商业, 用途, 翻译, 授权, 过程中, 了点, 误会, 略去, 不表, 最终, 文章, cc, nc, sa, 4, 0, 许可, 豌豆, 花下, 猫, 08, 22, 17, 10, 171, 3, 1, 建立, 套, 统一, 开发, 框架, 原, 荐, 起因, 野蛮, 生长, 近, 十年, 互, 联网, 速度, 越来, 越快, 互联, 网, 科技, 颠覆, 越来, 越多, 传统, 行业, 衣食, 住行, 互联, 网, 科技, 翻天, 覆, 变化, 大潮, 越来, 越多, 新兴, 宜信, 学院, 08, 22, 10, 31, 9, 8k, 41, 13, 学习, 笔记, 面向, 对象, 语言, 支持, 面对, 对象, 编程, 原, 荐, 面向, 对象, 编程, 风格, 深受, 开发者, 喜欢, 是以, java, 典型, 代表, 编程, 语言, 大行其道, 流行, 语言, 毫无, 意外, 都来, 源于, 语言, 同于, 面向, 过程, 编程, 面向, 雪, 之梦, 驿站, 08, 21, 22, 09, 391, 8, 0, 高德, 全, 链路, 压, 测, 平台, testpg, 架构, 实践, 原, 荐, 导读, 2018年, 十一, 当天, 高德, dau, 突破, 亿, 日, 活, 带来, 喜悦, 也给, 支撑, 高德, 业务, 带来, 挑战, 保障, 系统, 稳定, 性, 保证, 系统, 持续, 用户, 提供, 可靠, 高../nr, amap, tech, 08, 21, 14, 43, 68, 0, 0, 求生, 存到, 修, 体系, 阿里, 找到, 成长, 模式, 原, 荐, 阿里, 妹, 导读, 业务, 好比, 打仗, 团队, 归属, 团队, 既要, 通力, 协作, 又要, 定义, 既要, 业务, 先, 赢, 又要, 成长, 越来, 越多, 前端, 投身, 业务, 研发, 想要, 更好, 业务, 理解力, 非, 阿里云, 云栖, 社区, 08, 21, 13, 20, 776, 1, 2, cassandra, java, 堆, 外, 内存, 排查, 经历, 全, 记录, 原, 荐, 背景, 上线, cassandra, 产品, 同事, 在做, 些小, 规格, ecs, 8g, 压, 测, 压, 测, 触发, oom, killer, cassandra, 进程, 干掉, 问题是, 8g, 规格, 配置, heap, xmx, 约, 6, 5g, 留, 阿里云, 云栖, 社区, 08, 21, 12, 09, 428, 0, 0, spring, cloud, hoxton, ribbon, 真的, 能被, spring, cloud, loadbalancer, 替代, 原, 荐, 背景, 早上, 刷, 圈, spring, cloud, hoxton, m2, released, 消息, 随手, 发布, 到了, 知识, 星球, 过了, 会有, 朋友, 抽取, 半天, 学习, spring, cloud, loadbalancer, 源码, 整, 理出, 此文, 冷冷, gg, 08, 21, 09, 33, 440, 0, 1, 数, 据库, 12种, 姿势, 原, 荐, 数, 据库, 系统, 基础, 类, 软件, 发挥, 作用, 数, 据库, 有什/nr, 么样, 方式, 选择, 方式, 有其, 本文, 将从, 方式, 场景, 未来, 成本, 因素, 宜信, 学院, 08, 20, 18, 28, 3, 1k, 2, 0, 领导者, 必备, 三元, 简化, 模型, 助, 加速, 团队, 成长, 原, 荐, 关注, 成员, 成长, 很早, 之父, 德鲁, 克, 提出, 影响, 深远, 观点, 21, 世纪, 最有, 价值, 资产, 知识, 生产, 力, 管理者, 两类, 阿里云, 云栖, 社区, 08, 20, 13, 35, 582, 0, 0, 参与, 顶级, 开源, 原, 荐, 前言, 事情, 搬家, 换, 短暂, 休息, 顾, 得上, 博客, 更新, 恰好, 收到, 封, 邮件, 提醒, 写, 篇文章, 聊聊, 参与, 开源, 事, 确实, 笔, 荒, 期, crossoverjie, 08, 20, 08, 36, 4, 1k, 8, 13, spring, ioc, 源码, 分析, 基于, 注解, 包, 扫描, 原, 荐, 上篇, 文章, spring, ioc, 源码, 分析, 基于, 注解, 分析, 类, 传入, 一个包, 路径, 启动, spring, 初始化, 包, 扫描, 过滤, 规则, 就来, 看下, 少爷, 08, 19, 17, 13, 923, 0, 2, wifiphisher, 流氓, wifi, 网络, 钓鱼, 框架, 原, 荐, 编者注, 这是, 流氓, wifi, 网络, 钓鱼, 工具, 非法, 工具, 取, 决于, 场景, 事先, 许可, wifiphisher, 攻击, 基础, 网络, 设施, 将被, 视为, 非法, 使, 用时, 请, 遵, 红薯, 08, 19, 16, 52, 1k, 1, 0, 更多, 内容, 加载, 失败, 请, 刷新, 页面, 加载, 更多, 一页, 建立, 套, 统一, 开发, 框架, 原, 荐, 起因, 野蛮, 生长, 近, 十年, 互, 联网, 速度, 越来, 越快, 互联, 网, 科技, 颠覆, 越来, 越多, 传统, 行业, 衣食, 住行, 互联, 网, 科技, 翻天, 覆, 变化, 大潮, 越来, 越多, 新兴, 宜信, 学院, 08, 22, 10, 31, 9, 8k, 41, 13, 数, 据库, 12种, 姿势, 原, 荐, 数, 据库, 系统, 基础, 类, 软件, 发挥, 作用, 数, 据库, 有什/nr, 么样, 方式, 选择, 方式, 有其, 本文, 将从, 方式, 场景, 未来, 成本, 因素, 宜信, 学院, 08, 20, 18, 28, 3, 1k, 2, 0, 参与, 顶级, 开源, 原, 荐, 前言, 事情, 搬家, 换, 短暂, 休息, 顾, 得上, 博客, 更新, 恰好, 收到, 封, 邮件, 提醒, 写, 篇文章, 聊聊, 参与, 开源, 事, 确实, 笔, 荒, 期, crossoverjie, 08, 20, 08, 36, 4, 1k, 8, 13, authing, 10, 分钟, 单点, 登录, sso, 原, 荐, 单点, 登录, single, sign, 简称, sso, 流行, 业务, 整合, 解决, 方案, sso, 定义, 多个, 系统, 用户, 只, 登录, 访问, 相互, 信任, 系统, 单点, 登录, authing, 08, 17, 08, 06, 4k, 8, 7, 啤酒节, 尿意, 浓, svg, 低级, 艺术, 展示, 原, 荐, 仁, 有个, 执行, 仁, 有个, 园区, 开张, 请了, 写手, 写了, 篇, 软文, 炒作, 云破/nr, 月来, 花弄影, svg, 多种, 组合, 可惜, wphmoon, 08, 14, 11, 43, 3, 6k, 8, 9, 颠覆, 微, 认知, 思考, 微, 七个, 主流, 观点, 原, 荐, 原文, 地址, 梁桂钊/nr, 博客/nr, 博客, 地址, http, blog, 720ui, 关注, 公众, 号, 服务端, 思维, 一群, 频, 成长, 精进, 打破, 认知, 局限, 性, 逃离, 单体, 系统, 拥抱, 微, 单体, 系统, 梁桂钊/nr, 08, 14, 07, 53, 5, 3k, 12, 22, apache, shardingsphere, 数据, 脱敏, 全, 解决, 方案, 详解, 原, 荐, apache, shardingsphere, 数据, 脱敏, 全, 解决, 方案, 详解, 作者, 简介, 潘娟/nr, 京东, 数, 科, 高级, dba, 负责, 京东, 数, 科, 数, 据库, 中间件, 开发, 数, 据库, 运维, 自动化, 平台, 开发, 生产, 数, 据库, 运维, 参与, 京东, 6, 18, 11, tristazero, 08, 12, 11, 26, 3, 7k, 23, 15, 程序员, 懂, 一点, linux, 原, 荐, 提到, linux, 程序, 员, 来说, 定都, 陌生, 说到, 懂, linux, 多人, 有把, 握, 到底, linux, 懂, linux, 多远, 学习, linux, 学到, 程度, 懂, 马, 蜂窝, 08, 12, 10, 28, 4, 9k, 14, 12, tomcat, springboot, 启动, 原, 荐, 前言, springboot, 带来, 全新, 开发, 体验, web, 程序, 达成, jar, 包, 启动, 这就, 得益, springboot, 内置, 容器, 启动, 本文, 将以, tomcat, 为例, springb, 木, 木匠, 08, 12, 07, 57, 8, 3k, 24, 47, 想法, 常见, 全文, 翻译, 原, 荐, 关键字, php, pplusplus, faq, zeev, suraski, internals, 想法, 常见, 原文, https, wiki, php, net, pplusplus, faq, 2019, 8, 月, 9, 日, 作者, zeev, suraski, zeev, php, net, 这是, kaffa, 08, 12, 00, 11, 3, 8k, 18, 2, flink, 源码, 解析, 深度, 解析, flink, 内存, 原, 荐, 前言, 如今, 用于, 分析, 大型, 数据集, 开源, 系统, 都是, java, 基于, jvm, 编程, 语言, 着名, 例子, apache, hadoop, 新的, 框架, apache, spark, apache, drill, apache, flin, zhisheng, 08, 11, 22, 14, 2, 5k, 2, 5, 难得, 分库, 分表, 实践, 原, 荐, 背景, 发过, 两篇, 分表, 文章, 分表, 踩, 坑, 实践, 探讨, 分表, 二三, 事, 标题, 看得, 只, 做了, 分表, 业务, 截止到, 做了, 分库, 都还, crossoverjie, 08, 08, 08, 33, 7, 4k, 27, 16, 2019, jsconf, asia, kas, perch, webassembly, js, 未来, web, 语言, 开发, 原, 荐, 特别, 这是, simviso, 团队, jsconf, asia, webassembly, 相关, 话题, 翻译, 文档, 内容, 并非, 直译, 中有, 译者, 思考, 分享者, kas, perch, cloudflare, 一名, 开发, qiangdada, 08, 08, 02, 43, 3, 9k, 7, 2, 测试, 原, 测试, 红薯, 舅子, 08, 07, 18, 24, 16, 7k, 42, 53, soul, 可用, 网关, 配置, 缓存, 三大, 同步, 策略, 原, 荐, 前言, 网关, 流量, 请求, 入口, 微, 架构, 承担, 角色, 网关, 可用, 性, 不言, 喻, 在使, 网关, 过程, 业务, 诉求, 变更, 配置, 流, 控, 规则, 路由, 规则, shuaiqiyu, 08, 05, 18, 08, 1k, 0, 6, 凌晨, 1点, 突发, 致命, 生产, 事故, 人工, 线程, 破局, 原, 荐, 读者, 问, 程序, 员, 具备, 样, 能力, 才算, 得上, 厉害, 程序, 员, 答, 拥有, 解决, 能力, 程序, 员, 回答, 貌似, 抽象, 要紧, 看下, 面的, 文章, 慢慢, 解决, 纯洁, 微笑, 08, 05, 09, 11, 7, 3k, 28, 34, python, 之父, 发文, 构建, peg, 解析器, 原, 荐, 花下, 猫, 语, python, 之父, medium, 开了, 博客, 写了, 两篇, 文章, 本文, 篇, 译文, 一篇, 译文, 在此, 要用, peg, 解析器, 替换, pgen, 解析器, 本文, 介绍, 构建, pe, 豌豆, 花下, 猫, 08, 03, 20, 41, 3, 9k, 4, 2, 关系型, 数, 据库, 全表/nr, 扫描, 分片, 详解, 原, 荐, 导读, 数据, 总线, dbus, 专注, 数据, 实时, 采集, 实时, 分发, 以对, 系统, 业务, 流程, 数据, 汇聚, 转换, 统, json, 数据, 格式, ums, 提供/v, 数据/n, 方/n, 订阅/v, 消费/vn, 充../nr, 宜信, 学院, 08, 02, 10, 28, 2, 1k, 1, 1, devops, 落地, 实践, 案例, 分享, 原, 荐, 转载, 本文, 需, 注明, 出处, 微信, 公众, 号, eaworld, 违者, 必究, 引言, 银, 行业, 应对, 业务, 快速, 变化, 互, 联网, 层面, 不穷, 业务, 形态, 交易, 压力, 双态, 双模, 化, 无可, 探索, 业务, 参考, 互, eaworld, 07, 31, 17, 08, 1k, 0, 0, 敏捷, devops, 敌, 友, 原, 荐, devops, 敏捷, 软件, 开发, 团队, 另一, 相比, 之下, 更胜, 一筹, 业界, 认可, scrum, master, 朋友, 极限, 编程, 由其, 衍生, safe, dad, 敏捷, 精益, 文.., worktile, 07, 30, 15, 40, 2, 8k, 1, 5, 更多, 内容, 加载, 失败, 请, 刷新, 页面, 加载, 更多, 一页, rime, 设置, 默认, 简体, 转, 转载, https, github, moderras, moderras, github, io, blob, master, posts, 2018, 11, 07, rime, 8%, ae, 7%, bd, ae, 4%, 8%, ba, 9%, bb, 98%, 8%, ae, 4%, 7%, ae, 80%, 4%, bd, 93, md, 写在, arch, linux, zhenruyan, 11, 05, 5, 0, 0, 简述, tcp, 流量, 控制, 拥塞, 控制, 原, 1, tcp, 流量, 控制, 流量, 控制, 发, 送方, 发送, 速率, 太快, 要让, 接收, 方来, 接收, 原理, 确认, 报文, 窗口, 字段, 控制, 发送, 方的/nr, 发送, 速率, 发, 送方, 发送, 窗口, 大小, 超过, 接, 收方, 给出, 窗口, 大小, 鏡, 花, 水月, 10, 39, 10, 0, 0, oschina, 周日, 乱弹, 别问, 问, 没空, 原, osc, 乱弹, 歌单, 2019, 请, 戳, 今日, 歌曲, tom, tdhzz, 今日, 歌曲, 推荐, 分享, 容, 祖儿, 彭羚, 单曲, 心淡, 心淡, 容, 祖儿, 彭羚, 手机党, 少年, 听歌, 请, 使, 劲儿, 戳, wqp0010, 周../nr, 小小, 编辑, 07, 15, 1k, 11, 2, golang, 微, 框架, micro, 入门, 笔记, 2, 1, micro, 工具, micro, api, 原, micro, api, micro, 功能, 强大, 本文, 详细, 阐述, micro, api, 命, 令行, 功能, 事情, 3次, 本文, 代码, https, idea, techidea8, open, idea, shtml, id, 6, 本文, 代码, https, idea, techidea8, 非, 正式, 解决, 方案, 01, 40, 5, 0, 0, spring, context, 真的, 懂, 了吗, 原, 介绍, 常见, 单词, context, 理解, 正确, 理解, 有助, 学习, spring, 计, 算机, 系统, 中的, 知识, 1, context, 在编, 程中/nr, 见到, context, 单词, java, 知, 其所, 以然, 昨天, 23, 20, 9, 0, 0, spring, boot, mybatis, 集成, 二, 原, 前言, 章节, 介绍, mybatis, puls, crud, 先, 简单, 讲, 解下, 章节, spring, boot, 自动, 配置, mybatis, 自动, 配置, spring, boot, 从主/nr, 方法, main, 启动, 加载, 伴, 学, 编程, 昨天, 22, 28, 12, 0, 0, 通俗, 方法, 讲, spring, aop, 原, toc, 通俗, 方法, 讲, spring, aop, 写, 系列, 目的, 跳过, 不看, 写, 系列, 目的, 是个, 笨, 曾/d, 一度/mq, 怀疑/v, 智商/n, 适合/v, 干/v, 编程/n, 行业/n, 贼, 贼子, 昨天, 22, 12, 11, 0, 0, flutter, 系列, 之在, macos, 安装, 配置, flutter, 开发, 环境, 原, 本文, flutter, 开发, 环境, macos, 安装, 全, 过程, 系统, 配置, 想要, 安装, 运行, flutter, 开发, 环境, 最低, 操作, 系统, macos, 64位, 磁盘, 空间, 700, mb, 包含, ide, 過, 愙, 昨天, 16, 41, 9, 0, 0, excption, error, 包, 结构, oom, sof, 原, throwable, java, 错误, 异常, 超, 类, throwable, 包含, 两个, 子类, error, exception, 用于, 指示, 异常, java, 抛出, throwable, 分成, 种类, 型, 检查, 异常, checked, exc, garphy, 昨天, 04, 44, 47, 0, 0, 计, 算机, 原理, 专题, 二, 进制, 减, 法器, 二, 原, 计算, 机, 原理, 专题, 二, 进制, 减, 法器, 中说, 明了, 原理, 现, 第一, 步, 255, 运算, 相, 当于, 位, 取反, 可将, 8个, 非门, 下图, 形式, 每次, 减法, fat, mt, 前天, 19, 58, 42, 0, 0, 程序员, 数据, 学习, 路线, 分享, 函数, map, 映射, 元祖, 原, 程序员, 数据, 学习, 路线, 分享, 函数, map, 映射, 元祖, 大数, 平台, 语言, hadoop, java, 2003年, 至今, 大块, 数据, 数据, 存储, 数据, 计算, 存储, hbase, 数据, 成表, hive, 数, 程序, 员, 官方, 前天, 17, 11, 64, 0, 0, tabel, 含有, 复, 选框, 列, 数据, 理解, 原, 1, el, ui, 列为, 复, 选框, 多选, 简单, 手动, 添加, el, table, column, 设, type, 属性, selction, 即可, 2, selection, change, 事件, 选项, 勾选/nr, 状态, 变, 化时, 触发, 事件, everthing, 前天, 16, 59, 22, 0, 0, 分享, testflight, 测试, 流程, 文档, 原, 上架, 需求, 资料, 1, 苹果, 开发者, 账号, 还没, 账号, 先, 申请, 苹果, 开发者, 账号, 申请, 教程, 2, 开发, app, 本篇, 教程, 学习, ios, 证书, 申, 请和, 打包, ipa, 传到, appstoreconnect, apple, testf, qtb999, 前天, 16, 10, 13, 0, 0, 再见, spring, boot, 1, spring, boot, 2, 走向, 舞台, 中心, 转, 2019年, 8月, 6日, spring, 官方, 在其, 博客, spring, boot, 1, 停止, 维护, spring, boot, 1, 生命, 周期, 正式, 结束, 早在, 2018年, 7月, 30号, spring, 官方, 博客, 预告, spring, boot, 1, 维, java, 剑, 前天, 16, 03, 23, 0, 0, 浅谈, java, 滤器, filter, 通俗, 易懂, 讲解, 原, 简介, servlet, 中的, 过滤, 器, filter, javax, servlet, filter, 接口, 器, 端, 程序, 用途, 过滤, 字符, 编码, 业务, 逻辑, 判断, 权限, 访问, 页面, 原理, web, xml, 青衣, 霓裳, 前天, 15, 39, 13, 0, 0, 产品, 研发, 型, 困境, 原, 想要, 业务, 使, 用到, 底层, 架构, 采用, 三种, 方案, 招, 相关, 为之, 长期, 投入, 成本, 二, 相关, 开源, 框架, 培养, 相关, 业务, 数, 蚕, 前天, 15, 16, 13, 0, 0, 2019, 网络, 行业, 人才, 研究, 报告, 出炉, 原, 时代, 到来, 网络, 虚拟, 空间, 延伸, 现实, 空间, 当今, 网络, 战, 愈演愈烈, 网络, 军备, 赛, 即将, 来临, 网络, 空间, 领域, 战争, 归根, 到底, 人才, 竞争, 面对, 形势, 建立, 高效, 网络, 人才, 培, 360, 网络, 大学, 前天, 15, 14, 6, 0, 0, 酒, 德利, 商城, 开发, 程序, 逻辑, 原, 酒, 德利, 商城, 开发, zhao, i5oi3i5i74o, 微/电/nr, 酒, 德利, 批发, 零售, 酒, 德利, 系统, 酒, 德利, 软, 洋, 哥, 前天, 15, 04, 7, 0, 0, 十款, 强大, idea, 插件, java, 开发者, 利器, 原, xl, echo, 编辑, 整理, 转载, 转载, 请, 声明, 文章, 来源, 添加, echo, 微信, 微, 信号, t2421499075, 交流, 学习, 百, 战, 不败, 自称, 常胜, 百, 败, 颓, 奋力, 前行, 这才, 堪称, 强大, 插件, xlecho, 前天, 14, 51, 22, 0, 0, cdn, 加速, 网站, 性, 原, 网站, 人都, 件事, 那就, cdn, 网站, 加速, 性, cdn, 又是, 原理, 网站, 加速, cdn, 内容, 分发, 网络, 避开, 互联, 网上, 有可, 影响, 传输, 速度, 稳定, 性, 缓解, 云漫/nr, 网络, ruan, 前天, 14, 42, 14, 0, 0, 更多, 内容, 加载, 失败, 请, 刷新, 页面, 加载, 更多, 一页, 本周, 最受, 博主, 小小, 编辑, 1806, 篇, 文章, 6388, 3k, 访问, 宜信, 学院, 124, 篇, 文章, 74, 6k, 访问, 编辑部, 故事, 260, 篇, 文章, 1215, 6k, 访问, 红薯, 143, 篇, 文章, 1268, 5k, 访问, crossoverjie, 98, 篇, 文章, 145k, 访问, 阿里云, 云栖, 社区, 1558, 篇, 文章, 133, 1k, 访问, 程序猿, dd, 107, 篇, 文章, 98, 6k, 访问, 少爷, 13, 篇, 文章, 3, 4k, 访问, 宋庆, 59, 篇, 文章, 138, 6k, 访问, 木, 九天, 217, 篇, 文章, 90, 9k, 访问, 推荐, 博主, osc, lucy, 43, 篇, 文章, 15, 3k, 访问, 杭城, 小刘, 118, 篇, 文章, 38, 1k, 访问, 后端, 进阶, 24, 篇, 文章, 16, 6k, 访问, 美, 团, 团队, 93, 篇, 文章, 44, 3k, 访问, bz, 65, 篇, 文章, 14, 7k, 访问, 特拉, 仔, 182, 篇, 文章, 39, 5k, 访问, 鼎铭, 71, 篇, 文章, 27, 6k, 访问, 笔, 阁, 218, 篇, 文章, 125, 6k, 访问, oschina, 社区, 合作, 伙伴, open, api, 在线, 工具, 码, 云, gitee, 研发, copycat, 代码, 克隆, 检测, 实用, 在线, 工具, 微信, 公众, 号, oschina, app, 聚合, 全网, 文章, 阅读, 喜好, 个性, 推荐, 下载, app, oschina, oschina, net, 工信部, 开源, 软件, 推进, 联盟, 指定, 官方, 社区, 深圳市, 奥, 思, 网络, 科技, 有限, 版权, 粤, icp, 备, 12009483号, 3, 顶部]
+===2019-08-25 19:06:18.890 INFO  com.gwenson.listener.ApplicationStartup Line:30  - ########### ApplicationStartup listener runing ###############
+===2019-08-25 19:06:18.892 INFO  com.gwenson.listener.ApplicationStartup Line:69  - ###############ApplicationStartup listener runing is searchBlog Thread #############
+===2019-08-25 19:06:18.892 INFO  com.gwenson.robot.page.service.impl.DispatchTaskServiceImpl Line:96  - ################### dispatchStart runing #####################
+===2019-08-25 19:06:18.892 INFO  com.gwenson.robot.page.service.impl.DispatchTaskServiceImpl Line:97  - ################### depth #####################
+===2019-08-25 19:06:18.898 INFO  com.gwenson.SearchRobotApplicationTests Line:57  - Started SearchRobotApplicationTests in 61.496 seconds (JVM running for 62.059)

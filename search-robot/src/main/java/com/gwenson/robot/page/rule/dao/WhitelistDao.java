@@ -32,7 +32,7 @@ public class WhitelistDao {
 	
 	static{
 		
-		String whitelistPath = PropertiesUtil.GetValueByKey("/application.properties", "gwensong.robot.search.whitelistPath",BlacklistDao.class);
+		String whitelistPath = PropertiesUtil.GetValueByKey("application.properties", "gwensong.robot.search.whitelistPath");
 		log.info(whitelistPath);
 		
 		if(null != whitelistPath && !"".equals(whitelistPath)){

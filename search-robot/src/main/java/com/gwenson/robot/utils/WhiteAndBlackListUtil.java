@@ -13,7 +13,6 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.gwenson.robot.page.rule.dao.BlacklistDao;
 
 public class WhiteAndBlackListUtil {
 	private static Logger log=LoggerFactory.getLogger(WhiteAndBlackListUtil.class);
@@ -95,7 +94,7 @@ public class WhiteAndBlackListUtil {
 	 * @return
 	 */
 	public static File getFile(String path){
-		InputStream ins = BlacklistDao.class.getClass().getResourceAsStream(path);
+		InputStream ins = Thread.currentThread().getContextClassLoader().getResourceAsStream(path);
 		File file = new File(path);
 		WhiteAndBlackListUtil.inputstreamtofile(ins, file);
 		return file;
